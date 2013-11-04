@@ -10,5 +10,9 @@
   {
     "repository": "android_kernel_motorola_msm8960-common",
     "target_path": "kernel/motorola/msm8960-common"
+  },
+  {
+    "repository": "android_vendor_motorola_mb886",
+    "target_path": "vendor/motorola/mb886"
   }
 ]
