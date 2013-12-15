@@ -7,7 +7,7 @@ TARGET_SCREEN_HEIGHT := 1280
 
 # Release name
 PRODUCT_RELEASE_NAME := MB886
-PRODUCT_NAME := mk_mb886
+PRODUCT_NAME := omni_mb886
 
 $(call inherit-product, device/motorola/mb886/full_mb886.mk)
 
